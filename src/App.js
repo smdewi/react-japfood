@@ -2,9 +2,9 @@
 import React from 'react';
 import './App.css';
 
-import Nav from "./Nav";
-import Hero from "./Hero";
-import AboutUs from "./AboutUs";
+import Nav from "./components/Nav";
+import Hero from "./components/Hero";
+import AboutUs from "./components/AboutUs";
 
 function App() {
   return (
